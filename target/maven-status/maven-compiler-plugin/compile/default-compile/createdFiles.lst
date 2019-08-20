@@ -1,0 +1,11 @@
+testserver\server\controllers\HomeController.class
+testserver\server\uiAutomation\HTMLOutputWriter.class
+testserver\server\App.class
+testserver\server\support\GenericResponseObject.class
+testserver\server\controllers\UIAutomationController.class
+testserver\server\uiAutomation\SeleniumStandaloneServer.class
+testserver\server\uiAutomation\SeleniumScriptFailedExecption.class
+testserver\server\uiAutomation\UIAutomationInitiator.class
+testserver\server\controllers\APIAutomationController.class
+testserver\server\uiAutomation\SeleniumUtilities.class
+testserver\server\uiAutomation\Screenshot.class
